@@ -9,6 +9,7 @@ Este projeto investiga os fatores espaciais que influenciam os valores médios d
   - 📓 **notebooks/**
     - [`HW01_Ana_Filipa_Willian.ipynb`](/notebooks/HW01_Ana_Filipa_Willian.ipynb) - Primeira Parte do HWA (07 mar 2025)
     - [`HW02_Ana_Filipa_Willian.ipynb`](/notebooks/HW02_Ana_Filipa_Willian.ipynb) - Segunda Parte do HWA (03 abr 2025)
+    - [`HW02_Ana_Filipa_Willian.html`](/notebooks/HW02_Ana_Filipa_Willian.html)_- output enviado no moodle 
   - `README.md` - Este arquivo
 
 
